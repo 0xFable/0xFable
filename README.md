@@ -2,7 +2,9 @@
 - 👀 I’m interested in Blockchain development and developing solutions to help others with their financial challenges.
 - I put a special focus on making accessible applications for everyone which look beautiful on every device.
 - 💞️ I’m looking to collaborate on Terra Luna projects, anything with cosmwasm or Cosmos
-- 📫 How to reach me Twitter
+- 📫 How to reach me: [Twitter](https://twitter.com/0xFab1e)
+
+I am interested in alot of the core tech of Cosmos SDK, IBC and Tendermint. Give me a shout if you want to have a coffee.
 
 Take a look at my teams submission to the [Next Top Blockchain Startup Here](https://devpost.com/software/white-whale)! We came together as a team of strangers and are now building a project for the community. The icing on the cake was we won both the Open Innovation Grand Prize - Hosted by BitMart, Future Tech & GDA Ventures for the hackathon as well as 1 of the winners of the Building DeFi for the Masses - Hosted by Terra powered by LUNA. 
 
